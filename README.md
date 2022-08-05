@@ -33,6 +33,8 @@ My name is Aditya Mahale, and I'm a polyglot application developer. I am from In
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadmahale&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's GitHub Stats" />
 </a>
 
+## 📈 Github Activity Graph
+[![Aditya's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityadmahale&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
