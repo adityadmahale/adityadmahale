@@ -1,7 +1,7 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;AWS+Certified+Solutions+Architect+Associate;Teaching+Assistant;Full+Stack+Developer;Automation+Specialist;&center=true&width=500&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Senior+Software+Engineer;AWS+Certified+Solutions+Architect+Associate;PostgreSQL+Certified+Associate;Teaching+Assistant;Full+Stack+Developer;Automation+Specialist;&center=true&width=800&height=80&font=Time+New+Roman&color=%232c64bf&size=30"></a>
 </p>
 
 
