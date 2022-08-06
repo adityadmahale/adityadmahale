@@ -1,5 +1,10 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;AWS+Certified+Solutions+Architect+Associate;Teaching+Assistant;Full+Stack+Developer;Automation+Specialist;&center=true&width=500&height=80"></a>
+</p>
+
+
 My name is Aditya Mahale, and I'm a polyglot application developer. I am from India, living in Halifax, Canada, and currently a student/Teaching Assistant at Dalhousie University. You can find me on [![LinkedIn][1.1]][1].
 
 ## Technologies & Tools
@@ -33,10 +38,12 @@ My name is Aditya Mahale, and I'm a polyglot application developer. I am from In
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadmahale&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's GitHub Stats" />
 </a>
 
-## 📈 Github Activity Graph
+## 📈 GitHub Activity Graph
 [![Aditya's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityadmahale&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## :trophy: GitHub Profile Trophies
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadmahale&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 
 
